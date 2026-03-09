@@ -1,2 +1,2 @@
 ## Welcome to javacript
-This repo will be study javascript
+This repo will be study **javascript**
