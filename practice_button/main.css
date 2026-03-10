@@ -1,0 +1,15 @@
+.button {
+  /* hieu ung co ban */
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  /* hieu ung lam dep */
+  background: linear-gradient(45deg,#007bff, #00ff88);
+  color: white;
+ /* hiệu ứng mượt , khi chuột vào sẽ phóng to dần lên trong 0.2s */
+  transition: transform 0.2s ;
+
+}
+.button:hover{
+    transform: scale(1.1);
+}
